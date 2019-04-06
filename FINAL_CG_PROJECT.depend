@@ -1,0 +1,329 @@
+# depslib dependency file v1.0
+1554385504 source:c:\users\anush\desktop\final_cg_project\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+
+1512590989 c:\program files\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	"sys/types.h"
+	"stdarg.h"
+	<locale.h>
+
+1512590989 c:\program files\mingw\include\_mingw.h
+	<msvcrtver.h>
+	<w32api.h>
+
+1512590989 c:\program files\mingw\include\msvcrtver.h
+	<_mingw.h>
+
+1512591001 c:\program files\mingw\include\w32api.h
+	<sdkddkver.h>
+
+1512591001 c:\program files\mingw\include\sdkddkver.h
+
+1512590989 c:\program files\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1512590989 c:\program files\mingw\include\locale.h
+	<_mingw.h>
+	<stddef.h>
+
+1553834841 c:\program files\mingw\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1512591001 c:\program files\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	"_winsock.h"
+	<ole2.h>
+
+1512591001 c:\program files\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1512591001 c:\program files\mingw\include\winuser.h
+	<windef.h>
+	<wingdi.h>
+	<stdarg.h>
+	<dbt.h>
+
+1512591001 c:\program files\mingw\include\windef.h
+	<w32api.h>
+	<winnt.h>
+
+1512591001 c:\program files\mingw\include\winnt.h
+	<windef.h>
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1512591001 c:\program files\mingw\include\winerror.h
+
+1512590989 c:\program files\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+	<strings.h>
+	"strings.h"
+	"wchar.h"
+
+1512590989 c:\program files\mingw\include\strings.h
+	<_mingw.h>
+	<stddef.h>
+
+1512590989 c:\program files\mingw\include\wchar.h
+	<_mingw.h>
+	<wctype.h>
+	<sys/types.h>
+	"stdio.h"
+	"stdlib.h"
+	"direct.h"
+	"sys/stat.h"
+	"io.h"
+	"time.h"
+	"locale.h"
+	"process.h"
+
+1512590989 c:\program files\mingw\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1512590989 c:\program files\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+	<locale.h>
+
+1512590989 c:\program files\mingw\include\direct.h
+	"dos.h"
+
+1512590989 c:\program files\mingw\include\dos.h
+	"io.h"
+
+1512590989 c:\program files\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+	"stdint.h"
+
+1512590989 c:\program files\mingw\include\stdint.h
+	<_mingw.h>
+	<stddef.h>
+
+1512590989 c:\program files\mingw\include\sys\stat.h
+	<sys/types.h>
+
+1512590989 c:\program files\mingw\include\time.h
+	<sys/types.h>
+	<_mingw.h>
+	<stddef.h>
+
+1512590989 c:\program files\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	"stdint.h"
+
+1512591001 c:\program files\mingw\include\basetsd.h
+
+1512591001 c:\program files\mingw\include\pshpack4.h
+
+1512591001 c:\program files\mingw\include\poppack.h
+
+1512591001 c:\program files\mingw\include\wingdi.h
+	<windef.h>
+
+1512591001 c:\program files\mingw\include\dbt.h
+	<windef.h>
+
+1512591001 c:\program files\mingw\include\winver.h
+
+1512591001 c:\program files\mingw\include\dde.h
+
+1512591001 c:\program files\mingw\include\dlgs.h
+
+1512591001 c:\program files\mingw\include\commctrl.h
+	<prsht.h>
+
+1512591001 c:\program files\mingw\include\prsht.h
+
+1512591001 c:\program files\mingw\include\wincon.h
+
+1512591001 c:\program files\mingw\include\winbase.h
+	<stdarg.h>
+	<windef.h>
+
+1512591001 c:\program files\mingw\include\winnls.h
+
+1512591001 c:\program files\mingw\include\winnetwk.h
+
+1512591001 c:\program files\mingw\include\winreg.h
+
+1512591001 c:\program files\mingw\include\winsvc.h
+
+1512591001 c:\program files\mingw\include\cderr.h
+
+1512591001 c:\program files\mingw\include\ddeml.h
+
+1512591001 c:\program files\mingw\include\imm.h
+
+1512591001 c:\program files\mingw\include\lzexpand.h
+
+1512591001 c:\program files\mingw\include\mmsystem.h
+
+1512591001 c:\program files\mingw\include\nb30.h
+
+1512591001 c:\program files\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1512591001 c:\program files\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1512591001 c:\program files\mingw\include\basetyps.h
+
+1512591001 c:\program files\mingw\include\rpcdcep.h
+
+1512591001 c:\program files\mingw\include\rpcnsi.h
+
+1512591001 c:\program files\mingw\include\rpcnterr.h
+
+1512590989 c:\program files\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1512591001 c:\program files\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1512591001 c:\program files\mingw\include\pshpack2.h
+
+1512591001 c:\program files\mingw\include\winperf.h
+
+1512591001 c:\program files\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1512591001 c:\program files\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1512591001 c:\program files\mingw\include\objfwd.h
+	<basetyps.h>
+
+1512591001 c:\program files\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1512591001 c:\program files\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1512591001 c:\program files\mingw\include\rpcnsip.h
+
+1512591001 c:\program files\mingw\include\winspool.h
+
+1512591001 c:\program files\mingw\include\_winsock.h
+	<sdkddkver.h>
+	<winsock2.h>
+	<winsock.h>
+
+1512591001 c:\program files\mingw\include\winsock2.h
+	"winsock.h"
+	"nspapi.h"
+
+1512591001 c:\program files\mingw\include\winsock.h
+	<windows.h>
+	<winerror.h>
+	<sys/bsdtypes.h>
+	<sys/time.h>
+	<mswsock.h>
+
+1512590989 c:\program files\mingw\include\sys\bsdtypes.h
+	<_mingw.h>
+
+1512590989 c:\program files\mingw\include\sys\time.h
+	<time.h>
+
+1512591001 c:\program files\mingw\include\mswsock.h
+
+1512591001 c:\program files\mingw\include\nspapi.h
+	"_winsock.h"
+	"wtypes.h"
+
+1512591001 c:\program files\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1512591001 c:\program files\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1512591001 c:\program files\mingw\include\objidl.h
+	<objfwd.h>
+
+1512591001 c:\program files\mingw\include\cguid.h
+
+1512591001 c:\program files\mingw\include\olectlid.h
+
+1512591001 c:\program files\mingw\include\oleauto.h
+	<oaidl.h>
+
+1512591001 c:\program files\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1512591001 c:\program files\mingw\include\oleidl.h
+	<objfwd.h>
+
+1547646340 c:\program files\mingw\include\gl\gl.h
+
+1512591001 c:\program files\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
